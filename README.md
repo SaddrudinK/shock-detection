@@ -46,3 +46,41 @@ PICU_D7NKJF,0
 PICU_DYGH15,0
 PICU_RP5NBF,0
 ...
+
+## Folder Structure:
+/notebooks         # Jupyter notebooks for data exploration and modeling
+/data              # Contains data files (or links to download them)
+/output            # Output files (predictions, logs, etc.)
+/models            # Saved models (if applicable)
+requirements.txt   # List of Python dependencies
+
+## Requirements
+To run this project, you'll need to install the required Python packages. You can do this by running:
+
+pip install -r requirements.txt
+
+Required Libraries:
+- numpy: For numerical computing and array manipulation.
+- pandas: For data manipulation and analysis.
+- scikit-learn: For building machine learning models and preprocessing.
+- xgboost: A powerful gradient boosting model for classification tasks.
+- matplotlib: For creating static, animated, and interactive visualizations.
+- seaborn: For statistical data visualization.
+
+## Running the Code
+1. Clone this repository:
+git clone https://github.com/SaddrudinK/shock-detection.git
+
+2. Navigate to the project folder:
+cd shock-detection
+
+3. Open the Jupyter notebook and run the cells:
+jupyter notebook
+
+The notebook contains the following steps:
+- Data loading and preprocessing.
+- Exploratory data analysis (EDA).
+- Model building and evaluation.
+- Prediction generation.
+
+#Feel free to reach out if you have any questions or suggestions for improvements!
