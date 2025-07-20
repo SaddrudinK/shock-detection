@@ -35,7 +35,7 @@ The dataset includes the following:
 - Hyperparameter tuning was performed to optimize the performance of each model.
 
 ### Current Status:
-- **Current Ranking**: As of now, I am ranked **5th** on the **public leaderboard**. The ranking is based on performance on the public test set, and the final ranking will depend on the private test set after the competition ends.
+- **Final Ranking**: I ranked **4th** on the **Final leaderboard**. The ranking was based on performance on the public test set, and the final ranking based on the private test set after the competition ended.
 
 ## Submission Format:
 The submission file format follows the exact structure required by Kaggle:
